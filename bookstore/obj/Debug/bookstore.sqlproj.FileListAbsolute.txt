@@ -1,0 +1,10 @@
+c:\Users\casper\Desktop\BookStore\bookstore\bin\Debug\bookstore.dacpac
+c:\Users\casper\Desktop\BookStore\bookstore\bin\Debug\bookstore.dll
+c:\Users\casper\Desktop\BookStore\bookstore\bin\Debug\bookstore.pdb
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\bookstore.sqlproj.AssemblyReference.cache
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\Model.xml
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\refactor.xml
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\postdeploy.sql
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\predeploy.sql
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\bookstore.dll
+c:\Users\casper\Desktop\BookStore\bookstore\obj\Debug\bookstore.pdb
